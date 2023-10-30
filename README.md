@@ -58,6 +58,19 @@ Upon completion, this project will deliver the following:
 3. Documentation for calculated columns and DAX measures.
 4. A user guide on how to use and navigate the Power BI report.
 
+## Demo of the Dashboard
+After Following all the above instructions and requirements...the Basic Layout will look like this-
+
+https://github.com/Saket2701/AdventureWorks/assets/101319476/ce0c5d15-44af-42b9-8252-0b5f2c95dbbb
+
+Demo for Product Details-
+
+https://github.com/Saket2701/AdventureWorks/assets/101319476/febb86c8-9c0e-4d35-ac88-ae6cb086135f
+
+Demo for Customer Details-
+
+https://github.com/Saket2701/AdventureWorks/assets/101319476/7ef76e7e-df4c-459d-88e6-826ac954542c
+
 ## Disclaimer
 
 The data used in this project is provided by Microsoft for illustrative purposes only. Any resemblance to real companies, organizations, products, or individuals is purely coincidental.
