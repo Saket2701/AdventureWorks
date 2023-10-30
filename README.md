@@ -6,7 +6,7 @@ Adventure Works Cycles*, a global manufacturing company, has hired you to design
 
 ## Project Objectives
 
-Your primary objectives in this project are as follows:
+primary objectives in this project are as follows:
 
 1. **Data Integration**: Connect to and transform the raw CSV data files to create a unified dataset.
 
@@ -18,7 +18,7 @@ Your primary objectives in this project are as follows:
 
 ## Getting Started
 
-To start working on this project, follow these steps:
+To start working on this project:
 
 1. **Data Extraction**: Extract the raw CSV files containing transaction, return, product, customer, and territory data.
 
@@ -29,10 +29,6 @@ To start working on this project, follow these steps:
 4. **Calculated Columns and DAX Measures**: Create calculated columns and DAX measures to calculate KPIs such as sales, revenue, profit, and returns.
 
 5. **Report Design**: Design an interactive report in Power BI Desktop that includes visualizations for regional performance comparison, product-level trends and forecasts, and high-value customer identification.
-
-6. **Testing and Validation**: Thoroughly test the solution to ensure data accuracy and the functionality of calculated measures.
-
-7. **Documentation**: Document the data integration, data model, and any calculations made, including a guide on how to use the report.
 
 ## Project Tools
 
